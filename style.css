@@ -69,12 +69,12 @@ div.jumbotron {
 
 .jumbotron p{
   font-size: 20px;
-  padding: 0px 40px 0px 40px;
+  padding: 0 40px 0 40px;
   line-height: 40px;
 }
 
 div.questions {
-  padding: 0px 20px 0px 20px;
+  padding: 0 20px 0 20px;
 }
 
 div.questions h4{
